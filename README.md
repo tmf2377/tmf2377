@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### 안녕하세요 배우며 성장하는 개발자 권슬희입니다. 👋
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftmf2377)](https:/hits.seeyoufarm.com)
 <!--
 **tmf2377/tmf2377** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![github stats](https://github-readme-stats.vercel.app/api?username=tmf2377&show_icons=true&hide_border=true)]
+(https://github.com/tmf2377)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tmf2377&layout=compact)](https://github.com/tmf2377)
