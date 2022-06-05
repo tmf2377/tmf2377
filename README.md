@@ -1,4 +1,4 @@
-### 안녕하세요 배우며 성장하는 개발자 권슬희입니다. 👋
+### 안녕하세요 광운대학교 미디어커뮤니케이션학과 권슬희입니다. 👋
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftmf2377)](https:/hits.seeyoufarm.com)
 <!--
 **tmf2377/tmf2377** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
